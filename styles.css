@@ -46,11 +46,12 @@ h1 {
 form {
     background-color: #FFFFFF;
     border-radius: 15px;
-    float: right;
-    padding: 35px;
+    float:right;
+    position: relative;
+    padding: 25px;
     margin-right: 120px;
     position:relative;
-    margin-top: -50px;
+    margin-top: -90px;
 }
 
 input {
